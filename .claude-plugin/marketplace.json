@@ -1,0 +1,17 @@
+{
+  "name": "forge-marketplace",
+  "owner": {
+    "name": "waldenlake"
+  },
+  "description": "Marketplace for the Forge orchestration plugin",
+  "plugins": [
+    {
+      "name": "forge",
+      "source": {
+        "source": "github",
+        "repo": "waldenlake/forge"
+      },
+      "description": "AI-driven software development orchestration — from requirements to trustworthy, tested software"
+    }
+  ]
+}
